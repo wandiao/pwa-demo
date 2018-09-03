@@ -1,0 +1,19 @@
+{
+  "name": "App name",
+  "short_name": "App short name",
+  "description": "Here is the description",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "icons": [
+      {
+        "src": "static/img/img1.png",
+        "sizes": "48x48 72x72 96x96 128x128 256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "static/img/logo.ico",
+        "sizes": "96x96"
+      }
+  ]
+}
